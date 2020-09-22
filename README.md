@@ -7,5 +7,3 @@ This is a version of the HK Mask pattern that is normalised over three sizes and
 I created this in March 2020 to solve my frustrations with the HK Mask pattern.
 
 I also added some tweaks to the process and the sewing methods, which I may write up at a later date.
-
-![JP Mask](/jpmask.pdf "JP Mask PDF")
